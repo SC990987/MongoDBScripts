@@ -10,5 +10,5 @@ there are a few scripts in this repository
    - how many chips passed the test
    - the total number of chips tested
    - the pass rate (#passed/total)
-  # Example data
-  the example data folder contains some old JSON Files from a previous round of ECONT testing 
+# Example data
+the example data folder contains some old JSON Files from a previous round of ECONT testing 
